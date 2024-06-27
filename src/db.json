@@ -1,0 +1,73 @@
+[{   
+    "title": "Inception",
+    "year": "2010",
+    "rated": "PG-13",
+    "released": "2010-07-16",
+    "runtime": "148 min",
+    "genre": "Action, Adventure, Sci-Fi",
+    "imdbRating": "8.8",
+    "poster": "https://m.media-amazon.com/images/I/51x25BvMR-L._AC_.jpg",
+    "favorite": true
+  },
+  {    
+    "title": "The Matrix",
+    "year": "1999",
+    "rated": "R",
+    "released": "1999-03-31",
+    "runtime": "136 min",
+    "genre": "Action, Sci-Fi",
+    "imdbRating": "8.7",
+    "poster": "https://m.media-amazon.com/images/I/51EG732BV3L.jpg",
+    "favorite": true
+  },
+  {
+    "title": "Interstellar",
+    "year": "2014",
+    "rated": "PG-13",
+    "released": "2014-11-07",
+    "runtime": "169 min",
+    "genre": "Adventure, Drama, Sci-Fi",
+    "imdbRating": "8.6",
+    "poster": "https://m.media-amazon.com/images/I/91kFYg4fX3L._AC_SY679_.jpg",
+    "favorite": false
+  },
+  {
+    "Title": "Inception",
+    "Year": "2010",
+    "Rated": "PG-13",
+    "Released": "16 Jul 2010",
+    "Runtime": "148 min",
+    "Genre": "Action, Adventure, Sci-Fi",
+    "imdbRating": "8.8",
+    "Poster": "https://m.media-amazon.com/images/I/51x25BvMR-L._AC_.jpg"
+  },
+  {
+    "Title": "The Dark Knight",
+    "Year": "2008",
+    "Rated": "PG-13",
+    "Released": "18 Jul 2008",
+    "Runtime": "152 min",
+    "Genre": "Action, Crime, Drama",
+    "imdbRating": "9.0",
+    "Poster": "https://m.media-amazon.com/images/I/81jOYR2OmDL._AC_SY679_.jpg"
+  },
+  {
+    "Title": "Interstellar",
+    "Year": "2014",
+    "Rated": "PG-13",
+    "Released": "07 Nov 2014",
+    "Runtime": "169 min",
+    "Genre": "Adventure, Drama, Sci-Fi",
+    "imdbRating": "8.6",
+    "Poster": "https://m.media-amazon.com/images/I/91kFYg4fX3L._AC_SY679_.jpg"
+  },
+  {
+    "Title": "The Matrix",
+    "Year": "1999",
+    "Rated": "R",
+    "Released": "31 Mar 1999",
+    "Runtime": "136 min",
+    "Genre": "Action, Sci-Fi",
+    "imdbRating": "8.7",
+    "Poster": "https://m.media-amazon.com/images/I/51EG732BV3L.jpg"
+  }]
