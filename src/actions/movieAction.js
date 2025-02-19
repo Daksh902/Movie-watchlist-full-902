@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_URL = 'https://movie-watchlist-backend-4vot.onrender.com/';
+const API_URL = 'https://movie-watchlist-backend-4vot.onrender.com/api/movies';
 
 export const fetchMovies = () => async (dispatch) => {
     try {
